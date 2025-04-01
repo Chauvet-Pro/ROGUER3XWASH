@@ -1,6 +1,6 @@
 # ROGUE R3X WASH
 
-## Software Version
+## Software Versions
 
 [V1.241121 - Rogue R3X Wash](https://github.com/Chauvet-Pro/ROGUER3XWASH/blob/f12f47e0f18c1cd5462a8bccb67f3f00cf569206/firmware/V1.241121.zip)
 - No new features or performance enhancements were added. This update is for internal use only
